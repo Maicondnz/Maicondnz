@@ -1,11 +1,6 @@
 <h1 align="center">Oi 👋, Meu nome é Maicon Donza</h1>
-<h3 align="center">Analista de dados em constante aprendizado.</h3>
+<h3 align="center"
 
-- 🔭 Atualmente estou trabalhando com analise e visualização de dados na **Data Mundo**
-
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
-
-- 💬 Me pergunte sobre **PowerBI, SQL, Excel**
 
 - 📫 Meu email é **maiconsntg@gmail.com**
 
